@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\GameSederhana\GameSederhana\bin\Debug\GameSederhana.exe.config
+c:\users\user\documents\visual studio 2013\Projects\GameSederhana\GameSederhana\bin\Debug\GameSederhana.exe
+c:\users\user\documents\visual studio 2013\Projects\GameSederhana\GameSederhana\bin\Debug\GameSederhana.pdb
+c:\users\user\documents\visual studio 2013\Projects\GameSederhana\GameSederhana\bin\Debug\GameSederhana.xml
+c:\users\user\documents\visual studio 2013\Projects\GameSederhana\GameSederhana\obj\Debug\GameSederhana.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\GameSederhana\GameSederhana\obj\Debug\GameSederhana.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\GameSederhana\GameSederhana\obj\Debug\GameSederhana.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\GameSederhana\GameSederhana\obj\Debug\GameSederhana.exe
+c:\users\user\documents\visual studio 2013\Projects\GameSederhana\GameSederhana\obj\Debug\GameSederhana.xml
+c:\users\user\documents\visual studio 2013\Projects\GameSederhana\GameSederhana\obj\Debug\GameSederhana.pdb
